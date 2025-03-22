@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.sourcelink.json
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\bin\Debug\net8.0\Practika2.exe
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\bin\Debug\net8.0\Practika2.deps.json
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\bin\Debug\net8.0\Practika2.runtimeconfig.json
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\bin\Debug\net8.0\Practika2.dll
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\bin\Debug\net8.0\Practika2.pdb
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.dll
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\refint\Practika2.dll
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.pdb
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\Practika2.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\BackHomeWork\Practika2\Practika2\obj\Debug\net8.0\ref\Practika2.dll
